@@ -14,6 +14,12 @@
 
 ![参考截图与原始地图素材拼接对比](./introsea-comparison.png)
 
+## 完整船体复原
+
+基于 introSea 原始地图和场景素材离线拼接的整船视图。
+
+![introSea 完整船体复原图](./introsea-full-ship.png)
+
 ## 快照内容
 
 - 资料/：解码方法、踩坑记录、接手入口、复原图和校验数据。
